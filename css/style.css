@@ -1,0 +1,10 @@
+.navbar{
+    background-color: rgb(219, 214, 214);
+    border: 1px solid black;
+}
+.container{
+    background-color: rgb(219, 214, 214);
+}
+.nav-item{
+    border-top: 2px solid black;
+}
